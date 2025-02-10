@@ -2,19 +2,28 @@
 
 
 
+
 # USO DEL PROGRAMA
 
 **Inicio**
 
-El programa presentara un menú interactivo en el cual se podra seleccionar alguna de las siguientes opciones
+El programa inicia con una pantalla de autenticación de usuario donde socita las credenciales necesarias para dar el acceso al menu principal
 
-- Doctores
+-Usuario
 
-- Citas
+-Contraseña
 
-- Pacientes
+Una vez realizado el proceso correcto de autenticación se precenta un menú interactivo en el cual se podra seleccionar alguna de las siguientes opciones
 
-Una vez seleccionada la opcion se podra capturar los datos para crear un registro dentro del programa, *a continación se muestran las posibles opciones*:
+- Dar de alta Doctor
+
+- Dar de alta Paciente
+
+- Crear una Cita
+
+- Salir
+
+Una vez seleccionada la opcion se podra realizar la capturar los datos para crear un registro dentro del programa, como se muestra a continuación :
 
 **Doctores**
 
@@ -28,7 +37,7 @@ Una vez seleccionada la opcion se podra capturar los datos para crear un registr
 
 - Nombre
 
-- ID
+- Id
 
 **Citas**
 
@@ -39,7 +48,18 @@ Una vez seleccionada la opcion se podra capturar los datos para crear un registr
 
 - Asignar Paciente
 
+**Salir**
+
+Termina la ejecución del programa
+
 # CREDITOS
+
+*Jorge Armando Martinez Ponce.*
+
+Desarrollado en Java SE 11, Intellij IDEA 2024.3.1.1
+
+Agradecimiento al Profesor del curso computacion en java Daniel Horacio Chávez Argott por compartir su experiencia y conocimiento.
 
 # LICENCIA 
 
+Licencia Publica 

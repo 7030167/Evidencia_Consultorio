@@ -1,8 +1,8 @@
-Instalacion y configuracion 
+INSTALACION Y CONFIGURACION  
 
-Uso del programa
+USO DEL PROGRAMA
 
-Creditos
+CREDITOS
 
-Licencia 
+LICENCIA 
 

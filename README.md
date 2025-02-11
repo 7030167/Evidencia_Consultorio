@@ -1,6 +1,6 @@
-### INSTALACION Y CONFIGURACION  
+# INSTALACION Y CONFIGURACION  
 
-Descargar el JDK:
+## Descargar el JDK:
 
 1. Visita el sitio web de Oracle y descarga la versión más reciente del JDK desde aquí:
 
